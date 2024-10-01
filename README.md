@@ -12,3 +12,6 @@
     <li>Janelia Thompsan</li>
     <li>Shiven Nayee</li>
 </ul>
+
+<img width="1434" alt="image" src="https://github.com/user-attachments/assets/c815fd16-d450-45d1-93b0-7c1a2a96a815">
+
