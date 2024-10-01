@@ -14,7 +14,7 @@
 </ul>
 
 <img width="1434" alt="image" src="https://github.com/user-attachments/assets/c815fd16-d450-45d1-93b0-7c1a2a96a815">
-![image](https://github.com/user-attachments/assets/4dc8b309-acbb-401a-8b4e-172483d922e8)
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/37815a6b-57d2-4fdd-b284-c8ae8ee35725">
 
 
 
