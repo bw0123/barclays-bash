@@ -1,6 +1,7 @@
 {
   "name": "venue",
   "version": "0.1.0",
+  "homepage": "https://bw0123.github.io/barclays-bash/",
   "private": true,
   "dependencies": {
     "@fullcalendar/react": "^5.5.0",
@@ -20,6 +21,8 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
